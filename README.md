@@ -1,2 +1,4 @@
 # Recluse
-An exhibition at ![Galeria Atlantica](Recluse-catalogue.png) in Port in YYYY.
+An exhibition at Galeria Atlantica in Port in YYYY.
+
+![Galeria Atlantica](Recluse-catalogue.png)
