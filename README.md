@@ -1,4 +1,4 @@
 # Recluse
-Exhibition at Galeria Nasoni, Porto, Portugal in 1991.
+Exhibition at Galeria Nasoni in Porto, Portugal in 1991.
 
 ![Galeria Atlantica](Recluse-catalogue.png)
