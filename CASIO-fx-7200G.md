@@ -110,5 +110,7 @@ Prog 2\
 Isz B\
 Frac .5B≠0⇒0→C
 
-(c) Michael Scott 1991
+---
+
+© Michael Scott 1991
 
