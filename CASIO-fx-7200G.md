@@ -55,7 +55,7 @@ R=2⇒"R"\
 R=3⇒"B"
 
 Prog 4\
-Int (.5S sin T)▴
+Int (.5S(sin T))▴
 
 ---
 
