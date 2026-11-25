@@ -16,7 +16,7 @@ Parte do fascínio que sabemos ter a pintura na China vem da percepção de que 
 
 Das Seis Leis da Pintura de Hsieh-Ho, somente a primeira, "animação atraves da consonância com o espírito", foi considerada como não-ensinável:
 
->*"A consonância do espírito envolve necessariamente um conhecimento inato; não pode certamente ser assegurada através da habilidade ou aplicação cerrada, nem tão pouco o tempo ajudará a atingi-la. E um acordo tácito, uma comunhão espiritual, algo que acontece sem que saibamos como". **
+> **"A consonância do espírito envolve necessariamente um conhecimento inato; não pode certamente ser assegurada através da habilidade ou aplicação cerrada, nem tão pouco o tempo ajudará a atingi-la. E um acordo tácito, uma comunhão espiritual, algo que acontece sem que saibamos como". ** \*
 
 Scott nasceu e passou a sua infância no campo, na Irlanda do Norte. Há sempre um entendimento de que o que somos - a nossa história pessoal - encontrará expressão em e através do que fizermos. O uso da universalidade da função matemática e a anonimia dos números gerados por tunção aleatória, permite, ao isolamento desta experiência, à sua não-comunicabilidade com outrém, aparecer numa forma mais amena. A vitalidade destes trabalhos está na sua capacidade de, através da natureza imparcial do "como" da sua construção, dar corpo em vez de imagem a uma vivência pessoal e ao fazê-lo, oferecer um mais profundo espaço para as nossas reflexões sobre o mundo.
 
@@ -24,8 +24,4 @@ Scott nasceu e passou a sua infância no campo, na Irlanda do Norte. Há sempre 
 
 (Tradução de Antoinette Figueira.)
 
-\\* Kuo Jo-hsu, princípios do século 11, traduzido em Susan Bush e Hsio-yen Shih, Early Chinese texts on Painting, Harvard 1985
-
-**Michael Archer**
-
-\* Kuo Jo-hsu, early 11th century, translated in Susan Bush and Hsio-yen Shih, Early Chinese Texts on Painting, Harvard, 1985
+\* Kuo Jo-hsu, princípios do século 11, traduzido em Susan Bush e Hsio-yen Shih, Early Chinese texts on Painting, Harvard 1985
