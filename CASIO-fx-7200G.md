@@ -105,7 +105,7 @@ B=1⇒.3H(Ran#+.001)+.2H→Y▴
 
 <u>Prog 2</u>\
 Isz B\
-Frac .5B≠0⇒0+C\
+Frac .5B≠0⇒0+C
 
 (c) Michael Scott 1991
 
